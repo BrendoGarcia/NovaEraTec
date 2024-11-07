@@ -260,7 +260,7 @@ nav ul li a:hover::after {
 
 /* Efeito de animação ao passar o mouse */
 .btn:hover {
-    background-color: #0056b3; /* Cor do botão muda para um azul mais escuro */
+    background-color: #086028; /* Cor do botão muda para um azul mais escuro */
     transform: scale(1.1); /* Aumenta ligeiramente o botão */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra suave */
 }
@@ -284,5 +284,6 @@ nav ul li a:hover::after {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra suave */
 }
    
-  
-  
+.vejamais{
+  color: #0775ea;
+}
